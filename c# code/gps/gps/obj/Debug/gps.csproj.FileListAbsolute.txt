@@ -1,0 +1,9 @@
+E:\hotelpos\demogps\gps\gps\bin\Debug\gps.exe.config
+E:\hotelpos\demogps\gps\gps\obj\Debug\gps.csprojResolveAssemblyReference.cache
+E:\hotelpos\demogps\gps\gps\obj\Debug\gps.Form1.resources
+E:\hotelpos\demogps\gps\gps\obj\Debug\gps.Properties.Resources.resources
+E:\hotelpos\demogps\gps\gps\obj\Debug\gps.csproj.GenerateResource.Cache
+E:\hotelpos\demogps\gps\gps\bin\Debug\gps.exe
+E:\hotelpos\demogps\gps\gps\bin\Debug\gps.pdb
+E:\hotelpos\demogps\gps\gps\obj\Debug\gps.exe
+E:\hotelpos\demogps\gps\gps\obj\Debug\gps.pdb

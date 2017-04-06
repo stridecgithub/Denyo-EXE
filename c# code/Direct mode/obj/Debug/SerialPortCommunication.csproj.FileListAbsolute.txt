@@ -1,0 +1,18 @@
+E:\c#-code\SerialPortListener\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\c#-code\SerialPortListener\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\c#-code\SerialPortListener\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\c#-code\SerialPortListener\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\c#-code\SerialPortListener\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\c#-code\SerialPortListener\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\c#-code\SerialPortListener\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
+E:\c#-code\SerialPortListener\SerialPortCommunication\obj\Debug\SerialPortCommunication.csprojResolveAssemblyReference.cache
+E:\c#-code\SerialPortListener\SerialPortCommunication\obj\Debug\PCComm.Genarator.resources
+C:\Users\Ilayaraja\Google Drive\denyo-backup\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+C:\Users\Ilayaraja\Google Drive\denyo-backup\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+C:\Users\Ilayaraja\Google Drive\denyo-backup\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+C:\Users\Ilayaraja\Google Drive\denyo-backup\SerialPortCommunication\obj\Debug\SerialPortCommunication.csprojResolveAssemblyReference.cache
+C:\Users\Ilayaraja\Google Drive\denyo-backup\SerialPortCommunication\obj\Debug\PCComm.Genarator.resources
+C:\Users\Ilayaraja\Google Drive\denyo-backup\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+C:\Users\Ilayaraja\Google Drive\denyo-backup\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
+C:\Users\Ilayaraja\Google Drive\denyo-backup\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+C:\Users\Ilayaraja\Google Drive\denyo-backup\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb

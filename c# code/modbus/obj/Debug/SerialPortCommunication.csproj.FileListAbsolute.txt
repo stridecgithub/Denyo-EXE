@@ -1,0 +1,9 @@
+E:\c#-code\SerialPortListener\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\c#-code\SerialPortListener\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\c#-code\SerialPortListener\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\c#-code\SerialPortListener\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\c#-code\SerialPortListener\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\c#-code\SerialPortListener\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\c#-code\SerialPortListener\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
+E:\c#-code\SerialPortListener\SerialPortCommunication\obj\Debug\SerialPortCommunication.csprojResolveAssemblyReference.cache
+E:\c#-code\SerialPortListener\SerialPortCommunication\obj\Debug\PCComm.Genarator.resources
